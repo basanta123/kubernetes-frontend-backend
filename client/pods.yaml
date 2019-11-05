@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: react-web-app
+  labels:
+    app: react-web-app
+spec:
+  containers:
+    - name: react-web-app
+      image: basantaolive/react-web-app

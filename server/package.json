@@ -1,0 +1,16 @@
+{
+  "name": "devops-practice",
+  "version": "1.0.0",
+  "description": "Devops kubernetes 2 different services deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Basanta Dhakal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
